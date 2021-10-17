@@ -1,0 +1,43 @@
+{
+	"producer_account_name": "xprasia",
+	"org": {
+		"candidate_name": "XPRAsia",
+		"website": "https://djjay60.github.io/proton/",
+		"code_of_conduct": "https://djjay60.github.io/proton/",
+		"email": "ProtonAsia@hotmail.com",
+		"ownership_disclosure": "https://djjay60.github.io/proton/",
+		"branding": {
+			"logo_256": "https://djjay60.github.io/proton/loge256.jpg",
+			"logo_1024": "https://djjay60.github.io/proton/loge1024.jpg",
+			"logo_svg": ""
+		},
+		"location": {
+			"name": "China",
+			"country": "CN",
+			"latitude": 35.8617,
+			"longitude": 104.1954
+		},
+		"social": {
+			"steemit": "",
+			"twitter": "XPRAsia",
+			"youtube": "",
+			"facebook": "",
+			"github": "",
+			"reddit": "",
+			"keybase": "",
+			"telegram": "XPRAsia*",
+			"wechat": ""
+		}
+	},
+	"nodes": [
+		{
+			"location": {
+				"name": "China",
+				"country": "CN",
+				"latitude": 35.8617,
+				"longitude": 104.1954
+			},
+			"node_type": "producer"
+		}
+	]
+}
