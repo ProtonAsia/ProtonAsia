@@ -32,10 +32,10 @@
 	"nodes": [
 		{
 			"location": {
-				"name": "China",
-				"country": "CN",
-				"latitude": 35.8617,
-				"longitude": 104.1954
+				"name": "United Kingdom",
+				"country": "GB",
+				"latitude": 55.3781,
+				"longitude": 3.4360
 			},
 			"node_type": "producer"
 		}
