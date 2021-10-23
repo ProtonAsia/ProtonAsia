@@ -12,10 +12,10 @@
 			"logo_svg": ""
 		},
 		"location": {
-      "name": "Seoul",
-      "country": "KR",
-      "latitude": 37.400226,
-      "longitude": 127.104194
+			"name": "Seoul",
+			"country": "KR",
+			"latitude": 37.5665,
+			"longitude": 126.9780
 		},
 		"social": {
 			"steemit": "",
@@ -32,11 +32,10 @@
 	"nodes": [
 		{
 			"location": {
-	  "location": {
-      "name": "Seoul",
-      "country": "KR",
-      "latitude": 37.400226,
-      "longitude": 127.104194
+				"name": "Seoul",
+				"country": "KR",
+				"latitude": 37.5665,
+				"longitude": 126.9780
 			},
 			"node_type": "producer"
 		}
