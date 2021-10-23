@@ -7,8 +7,8 @@
 		"email": "ProtonAsia@hotmail.com",
 		"ownership_disclosure": "https://protonasia.github.io/ProtonAsia/",
 		"branding": {
-			"logo_256": "https://github.com/ProtonAsia/ProtonAsia/blob/gh-pages/SK256.png",
-			"logo_1024": "https://github.com/ProtonAsia/ProtonAsia/blob/gh-pages/SK1024.png?raw=true",
+			"logo_256": "https://raw.githubusercontent.com/ProtonAsia/ProtonAsia/gh-pages/SK256.png",
+			"logo_1024": "https://raw.githubusercontent.com/ProtonAsia/ProtonAsia/gh-pages/SK1024.png?raw=true",
 			"logo_svg": ""
 		},
 		"location": {
