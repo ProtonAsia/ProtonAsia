@@ -12,10 +12,10 @@
 			"logo_svg": ""
 		},
 		"location": {
-			"name": "China",
-			"country": "CN",
-			"latitude": 35.8617,
-			"longitude": 104.1954
+			"name": "South Korea",
+			"country": "KOR",
+			"latitude": 35.9078,
+			"longitude": 127.7669
 		},
 		"social": {
 			"steemit": "",
@@ -32,10 +32,10 @@
 	"nodes": [
 		{
 			"location": {
-				"name": "China",
-				"country": "CN",
-				"latitude": 35.8617,
-				"longitude": 104.1954
+				"name": "South Korea",
+				"country": "KOR",
+				"latitude": 35.9078,
+				"longitude": 127.7669
 			},
 			"node_type": "producer"
 		}
