@@ -1,0 +1,43 @@
+{
+	"producer_account_name": "xprasia",
+	"org": {
+		"candidate_name": "XPRAsia",
+		"website": "https://protonasia.github.io/ProtonAsia/",
+		"code_of_conduct": "https://protonasia.github.io/ProtonAsia/",
+		"email": "ProtonAsia@hotmail.com",
+		"ownership_disclosure": "https://protonasia.github.io/ProtonAsia/",
+		"branding": {
+			"logo_256": "https://github.com/ProtonAsia/ProtonAsia/blob/gh-pages/Viet",
+			"logo_1024": "https://github.com/ProtonAsia/ProtonAsia/blob/gh-pages/Vietnamflag_1_1024x1024.jpg",
+			"logo_svg": ""
+		},
+		"location": {
+			"name": "China",
+			"country": "CN",
+			"latitude": 35.8617,
+			"longitude": 104.1954
+		},
+		"social": {
+			"steemit": "",
+			"twitter": "XPRAsia",
+			"youtube": "",
+			"facebook": "",
+			"github": "",
+			"reddit": "",
+			"keybase": "",
+			"telegram": "XPRAsia*",
+			"wechat": ""
+		}
+	},
+	"nodes": [
+		{
+			"location": {
+				"name": "China",
+				"country": "CN",
+				"latitude": 35.8617,
+				"longitude": 104.1954
+			},
+			"node_type": "producer"
+		}
+	]
+}
