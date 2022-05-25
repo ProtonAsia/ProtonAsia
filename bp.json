@@ -1,11 +1,13 @@
 {
-	"producer_account_name": "xprasia",
 	"org": {
 		"candidate_name": "XPRAsia",
 		"website": "https://protonasia.github.io/ProtonAsia/",
 		"code_of_conduct": "https://protonasia.github.io/ProtonAsia/",
-		"email": "ProtonAsia@hotmail.com",
 		"ownership_disclosure": "https://protonasia.github.io/ProtonAsia/",
+		"email": "ProtonAsia@hotmail.com",
+		"github_user": [],
+		"chain_resources": "",
+		"other_resources": [],
 		"branding": {
 			"logo_256": "https://raw.githubusercontent.com/ProtonAsia/ProtonAsia/gh-pages/New_flag_1_256x256.jpg",
 			"logo_1024": "https://raw.githubusercontent.com/ProtonAsia/ProtonAsia/gh-pages/New_flag_1024x1024.jpg",
@@ -15,17 +17,17 @@
 			"name": "Seoul",
 			"country": "KR",
 			"latitude": 37.5665,
-			"longitude": 126.9780
+			"longitude": 126.978
 		},
 		"social": {
-			"steemit": "",
+			"keybase": "",
+			"telegram": "",
 			"twitter": "AsiaXpr",
+			"github": "",
 			"youtube": "",
 			"facebook": "",
-			"github": "",
+			"hive": "",
 			"reddit": "",
-			"keybase": "",
-			"telegram": "XPRAsia*",
 			"wechat": ""
 		}
 	},
@@ -35,9 +37,36 @@
 				"name": "Seoul",
 				"country": "KR",
 				"latitude": 37.5665,
-				"longitude": 126.9780
+				"longitude": 126.978
 			},
 			"node_type": "producer"
+		},
+		{
+			"location": {
+				"name": "Seoul",
+				"country": "KR",
+				"latitude": 37.5665,
+				"longitude": 126.978
+			},
+			"node_type": "query",
+			"api_endpoint": "http://bptestnet.xprasia.com",
+			"ssl_endpoint": "https://bptestnet.xprasia.com",
+			"features": [
+				"chain-api",
+				"account-query",
+				"history-v1"
+			]
+		},
+		{
+			"location": {
+				"name": "Seoul",
+				"country": "KR",
+				"latitude": 37.5665,
+				"longitude": 126.978
+			},
+			"node_type": "seed",
+			"p2p_endpoint": "p2p-testnet.xprasia.com:9876"
 		}
-	]
+	],
+	"producer_account_name": ""
 }
